@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T14:57:28.377552",
+  "generated_at": "2026-04-15T18:54:18.604212",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -523,6 +523,54 @@
           "max_hr": 156,
           "avg_cadence": 82.85714,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i140095196",
+      "date": "2026-04-15",
+      "type": "Ride",
+      "name": "Vienna Road Cycling",
+      "interval_summary": [
+        "1x 12s 406w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1514,
+          "avg_power": 191,
+          "max_power": 612,
+          "avg_hr": 147,
+          "max_hr": 174,
+          "avg_cadence": 75.334496,
+          "zone": 2,
+          "training_load": 27.803137,
+          "decoupling": 5.2011456
+        },
+        {
+          "type": "WORK",
+          "label": "12s@406w75rpm",
+          "duration_secs": 12,
+          "avg_power": 406,
+          "max_power": 652,
+          "avg_hr": 166,
+          "max_hr": 170,
+          "avg_cadence": 75.083336,
+          "zone": 7,
+          "training_load": 0.34113035,
+          "decoupling": 20.566965
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5237,
+          "avg_power": 180,
+          "max_power": 686,
+          "avg_hr": 146,
+          "max_hr": 173,
+          "avg_cadence": 81.52513,
+          "zone": 2,
+          "training_load": 77.901955,
+          "decoupling": -5.377245
         }
       ]
     }
