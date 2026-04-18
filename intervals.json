@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T10:27:25.929221",
+  "generated_at": "2026-04-18T12:01:02.522305",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -571,6 +571,74 @@
           "zone": 2,
           "training_load": 77.901955,
           "decoupling": -5.377245
+        }
+      ]
+    },
+    {
+      "activity_id": "i140832760",
+      "date": "2026-04-18",
+      "type": "MountainBikeRide",
+      "name": "Grizzana Morandi Mountain Biking",
+      "interval_summary": [
+        "1x 29m43s 161bpm",
+        "1x 23m5s 143bpm",
+        "1x 19m43s 135bpm",
+        "1x 12m6s 116bpm",
+        "1x 11m27s 101bpm",
+        "1x 12m39s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1783s@161bpm",
+          "duration_secs": 1783,
+          "avg_hr": 161,
+          "max_hr": 183,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "1385s@143bpm",
+          "duration_secs": 1385,
+          "avg_hr": 143,
+          "max_hr": 172,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1183s@135bpm",
+          "duration_secs": 1183,
+          "avg_hr": 135,
+          "max_hr": 159,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "726s@116bpm",
+          "duration_secs": 726,
+          "avg_hr": 116,
+          "max_hr": 143,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "687s@101bpm",
+          "duration_secs": 687,
+          "avg_hr": 101,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "759s@146bpm",
+          "duration_secs": 759,
+          "avg_hr": 146,
+          "max_hr": 171,
+          "zone": 2
         }
       ]
     }
