@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:35:09.686474",
+  "generated_at": "2026-04-23T06:18:54.581353",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -313,72 +313,6 @@
           "zone": 2,
           "training_load": 18.616617,
           "decoupling": -1.8917929
-        }
-      ]
-    },
-    {
-      "activity_id": "i138113423",
-      "date": "2026-04-08",
-      "type": "Ride",
-      "name": "Vienna Road Cycling",
-      "interval_summary": [
-        "1x 16s 399w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 631,
-          "avg_power": 185,
-          "max_power": 516,
-          "avg_hr": 132,
-          "max_hr": 146,
-          "avg_cadence": 76.28843,
-          "zone": 2,
-          "training_load": 10.323283,
-          "decoupling": 15.302774
-        },
-        {
-          "type": "WORK",
-          "label": "16s@399w86rpm",
-          "duration_secs": 16,
-          "avg_power": 399,
-          "max_power": 509,
-          "avg_hr": 132,
-          "max_hr": 141,
-          "avg_cadence": 85.6875,
-          "zone": 7,
-          "training_load": 0.3000888,
-          "decoupling": 27.174913
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1540,
-          "avg_power": 175,
-          "max_power": 614,
-          "avg_hr": 133,
-          "max_hr": 148,
-          "avg_cadence": 75.60648,
-          "zone": 2,
-          "training_load": 20.82723
-        }
-      ]
-    },
-    {
-      "activity_id": "i138072870",
-      "date": "2026-04-08",
-      "type": "Ride",
-      "name": "Vienna Multisport",
-      "interval_summary": [
-        "1x 9m57s 91bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "597s@91bpm",
-          "duration_secs": 597,
-          "avg_hr": 91,
-          "max_hr": 109,
-          "zone": 1
         }
       ]
     },
