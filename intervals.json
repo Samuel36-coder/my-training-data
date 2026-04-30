@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T17:05:29.048866",
+  "generated_at": "2026-04-30T19:21:23.958800",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -771,6 +771,27 @@
           "zone": 2,
           "training_load": 33.97573,
           "decoupling": -4.7352405
+        }
+      ]
+    },
+    {
+      "activity_id": "i144372129",
+      "date": "2026-04-30",
+      "type": "VirtualRide",
+      "name": "Recovery",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1802,
+          "avg_power": 142,
+          "max_power": 169,
+          "avg_hr": 138,
+          "max_hr": 147,
+          "avg_cadence": 87.94062,
+          "zone": 2,
+          "training_load": 15.163155,
+          "decoupling": 3.2433636
         }
       ]
     }
