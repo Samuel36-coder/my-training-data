@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T14:35:03.076600",
+  "generated_at": "2026-05-09T17:37:39.013725",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -2167,6 +2167,82 @@
           "zone": 1,
           "training_load": 1.4765075,
           "decoupling": -69.84697
+        }
+      ]
+    },
+    {
+      "activity_id": "i146794581",
+      "date": "2026-05-09",
+      "type": "MountainBikeRide",
+      "name": "Grizzana Morandi Mountain Biking",
+      "interval_summary": [
+        "2x 30m14s 145bpm",
+        "1x 27m25s 129bpm",
+        "1x 22m28s 108bpm",
+        "1x 16m32s 115bpm",
+        "1x 12m5s 134bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1814s@145bpm60rpm",
+          "duration_secs": 1896,
+          "avg_hr": 145,
+          "max_hr": 168,
+          "avg_cadence": 62.42185,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1814s@145bpm60rpm",
+          "duration_secs": 1732,
+          "avg_hr": 144,
+          "max_hr": 165,
+          "avg_cadence": 56.907322,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1645s@129bpm50rpm",
+          "duration_secs": 1645,
+          "avg_hr": 129,
+          "max_hr": 158,
+          "avg_cadence": 50.092083,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 91,
+          "max_hr": 91,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1348s@108bpm29rpm",
+          "duration_secs": 1348,
+          "avg_hr": 108,
+          "max_hr": 141,
+          "avg_cadence": 29.29959,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "992s@115bpm56rpm",
+          "duration_secs": 992,
+          "avg_hr": 115,
+          "max_hr": 136,
+          "avg_cadence": 55.540485,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "725s@134bpm63rpm",
+          "duration_secs": 725,
+          "avg_hr": 134,
+          "max_hr": 157,
+          "avg_cadence": 63.24106,
+          "zone": 1
         }
       ]
     }
