@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T08:01:35.598835",
+  "generated_at": "2026-05-26T14:19:31.001919",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -2858,6 +2858,44 @@
           "duration_secs": 1175,
           "avg_hr": 100,
           "max_hr": 115,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i151583715",
+      "date": "2026-05-26",
+      "type": "Ride",
+      "name": "Vienna Multisport",
+      "interval_summary": [
+        "1x 9m20s 118bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "560s@118bpm",
+          "duration_secs": 560,
+          "avg_hr": 118,
+          "max_hr": 146,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i151583708",
+      "date": "2026-05-26",
+      "type": "Ride",
+      "name": "Vienna Multisport",
+      "interval_summary": [
+        "1x 10m48s 71bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "648s@71bpm",
+          "duration_secs": 648,
+          "avg_hr": 71,
+          "max_hr": 89,
           "zone": 1
         }
       ]
