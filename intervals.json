@@ -1,57 +1,10 @@
 {
-  "generated_at": "2026-05-27T23:02:42.028812",
+  "generated_at": "2026-05-28T00:15:10.303931",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i147941629",
-      "date": "2026-05-13",
-      "type": "Run",
-      "name": "Sliema Running",
-      "interval_summary": [
-        "4x 6m48s 139bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "408s@139bpm85rpm",
-          "duration_secs": 404,
-          "avg_hr": 139,
-          "max_hr": 150,
-          "avg_cadence": 83.98267,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "408s@139bpm85rpm",
-          "duration_secs": 427,
-          "avg_hr": 144,
-          "max_hr": 151,
-          "avg_cadence": 84.47775,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "408s@139bpm85rpm",
-          "duration_secs": 419,
-          "avg_hr": 139,
-          "max_hr": 146,
-          "avg_cadence": 85.45585,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "408s@139bpm85rpm",
-          "duration_secs": 381,
-          "avg_hr": 135,
-          "max_hr": 139,
-          "avg_cadence": 85.296585,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i148374847",
       "date": "2026-05-15",
