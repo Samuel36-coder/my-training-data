@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T13:50:17.903462",
+  "generated_at": "2026-06-26T16:21:10.650442",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -2194,6 +2194,26 @@
           "max_hr": 155,
           "avg_cadence": 85.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i160535427",
+      "date": "2026-06-26",
+      "type": "Ride",
+      "name": "Vienna Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 7679,
+          "avg_power": 142,
+          "max_power": 805,
+          "avg_hr": 143,
+          "max_hr": 155,
+          "avg_cadence": 80.30525,
+          "zone": 2,
+          "training_load": 71.91547
         }
       ]
     }
