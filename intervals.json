@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:34:58.859289",
+  "generated_at": "2026-07-03T23:44:25.186384",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1507,6 +1507,61 @@
           "zone": 1,
           "training_load": 2.4663608,
           "decoupling": 11.789111
+        }
+      ]
+    },
+    {
+      "activity_id": "i162504198",
+      "date": "2026-07-03",
+      "type": "Ride",
+      "name": "Vienna Cycling",
+      "interval_summary": [
+        "1x 37m 120bpm",
+        "1x 15m59s 126bpm",
+        "1x 3h52m 88bpm",
+        "1x 21m22s 83bpm",
+        "1x 9m13s 91bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2220s@120bpm",
+          "duration_secs": 2220,
+          "avg_hr": 120,
+          "max_hr": 139,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "959s@126bpm",
+          "duration_secs": 959,
+          "avg_hr": 126,
+          "max_hr": 162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "13966s@88bpm",
+          "duration_secs": 13966,
+          "avg_hr": 88,
+          "max_hr": 140,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1282s@83bpm",
+          "duration_secs": 1282,
+          "avg_hr": 83,
+          "max_hr": 112,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "553s@91bpm",
+          "duration_secs": 553,
+          "avg_hr": 91,
+          "max_hr": 106,
+          "zone": 1
         }
       ]
     }
