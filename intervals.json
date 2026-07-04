@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T13:45:13.814176",
+  "generated_at": "2026-07-04T14:54:11.849116",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -1540,6 +1540,34 @@
           "duration_secs": 553,
           "avg_hr": 91,
           "max_hr": 106,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i162659983",
+      "date": "2026-07-04",
+      "type": "Ride",
+      "name": "Vienna Cycling",
+      "interval_summary": [
+        "1x 2h41m 95bpm",
+        "1x 9m32s 92bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "9695s@95bpm",
+          "duration_secs": 9695,
+          "avg_hr": 95,
+          "max_hr": 124,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "572s@92bpm",
+          "duration_secs": 572,
+          "avg_hr": 92,
+          "max_hr": 116,
           "zone": 1
         }
       ]
