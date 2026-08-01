@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:03:23.621147",
+  "generated_at": "2026-08-01T22:11:50.166151",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -2593,6 +2593,44 @@
           "max_hr": 152,
           "avg_cadence": 86.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i171549732",
+      "date": "2026-08-01",
+      "type": "Run",
+      "name": "Bruck an der Leitha Running",
+      "interval_summary": [
+        "1x 4m58s 156bpm",
+        "1x 2m39s 183bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "298s@156bpm87rpm",
+          "duration_secs": 298,
+          "avg_hr": 156,
+          "max_hr": 173,
+          "avg_cadence": 86.69128,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 173,
+          "max_hr": 173,
+          "avg_cadence": 87.0,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "159s@183bpm88rpm",
+          "duration_secs": 159,
+          "avg_hr": 183,
+          "max_hr": 187,
+          "avg_cadence": 87.8239,
+          "zone": 5
         }
       ]
     }
