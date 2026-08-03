@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-03T07:48:17.191710",
+    "last_updated": "2026-08-03T11:31:01.035644",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -87,23 +87,23 @@
         "delta_pct": 4.1
       },
       "rhr": {
-        "status": "unavailable",
-        "value": null,
-        "baseline_7d": 48.5,
-        "delta_bpm": null
+        "status": "green",
+        "value": 47,
+        "baseline_7d": 48.3,
+        "delta_bpm": -1.3
       },
       "sleep": {
-        "status": "unavailable",
-        "hours": null,
-        "quality": null
+        "status": "amber",
+        "hours": 6.28,
+        "quality": 3
       },
       "acwr": {
         "status": "green",
         "value": 0.92
       },
       "ri": {
-        "status": "unavailable",
-        "value": null,
+        "status": "green",
+        "value": 1.07,
         "value_yesterday": 0.7
       },
       "tsb": {
@@ -112,10 +112,10 @@
       }
     },
     "signal_summary": {
-      "green": 3,
-      "amber": 0,
+      "green": 5,
+      "amber": 1,
       "red": 0,
-      "unavailable": 3
+      "unavailable": 0
     },
     "phase_context": {
       "phase": "Deload",
@@ -125,7 +125,7 @@
     },
     "race_week_defers": false,
     "modification": null,
-    "reason": "P3 green light. 3 green, 0 amber (threshold 2), 0 red.",
+    "reason": "P3 green light. 5 green, 1 amber (threshold 2), 0 red.",
     "alarm_refs": []
   },
   "history": {
@@ -204,12 +204,12 @@
     },
     "current_metrics": {
       "weight_kg": 77.0,
-      "resting_hr": 52,
+      "resting_hr": 47,
       "hrv": 51.0,
-      "sleep_quality": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_score": null,
+      "sleep_quality": 3,
+      "sleep_hours": 6.28,
+      "sleep_formatted": "6h17m",
+      "sleep_score": 64.0,
       "fatigue": null,
       "soreness": null,
       "stress": null,
@@ -226,7 +226,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 1137,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -238,14 +238,14 @@
     }
   },
   "derived_metrics": {
-    "recovery_index": null,
+    "recovery_index": 1.07,
     "recovery_index_yesterday": 0.7,
     "hrv_baseline_7d": 49.0,
-    "rhr_baseline_7d": 48.5,
+    "rhr_baseline_7d": 48.3,
     "hrv_baseline_28d": 47.6,
     "rhr_baseline_28d": 48.5,
     "latest_hrv": 51.0,
-    "latest_rhr": null,
+    "latest_rhr": 47,
     "acwr": 0.92,
     "acwr_interpretation": "optimal",
     "monotony": 1.33,
@@ -257,7 +257,7 @@
     "multi_sport_detected": true,
     "strain": 890.0,
     "stress_tolerance": 6.7,
-    "load_recovery_ratio": null,
+    "load_recovery_ratio": 6.3,
     "tss_7d_total": 669.0,
     "tss_28d_total": 2903.0,
     "zone_distribution_7d": {
@@ -598,10 +598,10 @@
     "p_max": 1106,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-03T07:48:17.190957",
+    "calculation_timestamp": "2026-08-03T11:31:01.034604",
     "data_quality": {
       "hrv_data_points": 7,
-      "rhr_data_points": 6,
+      "rhr_data_points": 7,
       "activities_7d": 8,
       "activities_28d": 34,
       "planned_workouts_7d": 0,
@@ -616,7 +616,7 @@
       "id": "i171742499",
       "date": "2026-08-02T12:20:36",
       "type": "Ride",
-      "name": "Vienna Road Cycling",
+      "name": "Vienna Long Road Cycling",
       "duration_hours": 3.81,
       "distance_km": 105.76,
       "tss": 225,
@@ -717,7 +717,7 @@
       "id": "i171361046",
       "date": "2026-08-01T10:13:44",
       "type": "Run",
-      "name": "Vienna Running",
+      "name": "Vienna Easy Running",
       "duration_hours": 0.97,
       "distance_km": 10.01,
       "tss": 47,
@@ -763,7 +763,7 @@
       "id": "i171184382",
       "date": "2026-07-31T16:22:53",
       "type": "Ride",
-      "name": "Vienna Road Cycling",
+      "name": "Vienna Z2 Road Cycling",
       "duration_hours": 2.68,
       "distance_km": 64.14,
       "tss": 128,
@@ -2523,13 +2523,13 @@
     {
       "date": "2026-08-03",
       "weight_kg": null,
-      "resting_hr": null,
+      "resting_hr": 47,
       "hrv_rmssd": 51.0,
       "hrv_sdnn": null,
-      "sleep_hours": null,
-      "sleep_formatted": null,
-      "sleep_quality": null,
-      "sleep_score": null,
+      "sleep_hours": 6.28,
+      "sleep_formatted": "6h17m",
+      "sleep_quality": 3,
+      "sleep_score": 64.0,
       "mental_energy": null,
       "avg_sleeping_hr": null,
       "vo2max": null,
@@ -2549,7 +2549,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": null,
+      "steps": 1137,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -2575,7 +2575,7 @@
     "total_tss": 669,
     "activities_count": 8,
     "avg_hrv": 49.0,
-    "avg_resting_hr": 48.5
+    "avg_resting_hr": 48.3
   },
   "race_calendar": {
     "next_race": null,
