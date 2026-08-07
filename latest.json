@@ -62,15 +62,15 @@
       "menstrual": "menstrual_phase and menstrual_phase_predicted are not on the 1-4 scale. Values: PERIOD, FOLLICULAR, OVULATION, LUTEAL, etc."
     },
     "quick_stats": {
-      "total_training_hours": 5.51,
-      "total_training_formatted": "5h30m",
-      "total_activities": 4,
+      "total_training_hours": 7.04,
+      "total_training_formatted": "7h2m",
+      "total_activities": 5,
       "total_tss": 285
     }
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-08-07T11:32:18.313347",
+    "last_updated": "2026-08-07T12:29:02.596521",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -138,9 +138,15 @@
   "summary": {
     "period_description": "Last 7 days of training (including today)",
     "note": "Duration calculated from API moving_time field.",
-    "total_duration_decimal_hours": 5.51,
-    "total_activities": 4,
+    "total_duration_decimal_hours": 7.04,
+    "total_activities": 5,
     "by_activity_type": {
+      "MountainBikeRide": {
+        "duration_decimal_hours": 1.53,
+        "count": 1,
+        "tss": 0,
+        "distance_km": 10.9
+      },
       "Ride": {
         "duration_decimal_hours": 3.81,
         "count": 1,
@@ -540,7 +546,7 @@
     "consistency_index": null,
     "consistency_details": {
       "planned_days": 0,
-      "completed_days": 1,
+      "completed_days": 2,
       "matched_days": 0,
       "note": "No planned workouts in period"
     },
@@ -598,12 +604,12 @@
     "p_max": 1101,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-08-07T11:32:18.312231",
+    "calculation_timestamp": "2026-08-07T12:29:02.595410",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
-      "activities_7d": 4,
-      "activities_28d": 30,
+      "activities_7d": 5,
+      "activities_28d": 31,
       "planned_workouts_7d": 0,
       "ftp_history_days": {
         "indoor": 0,
@@ -612,6 +618,42 @@
     }
   },
   "recent_activities": [
+    {
+      "id": "i173378993",
+      "date": "2026-08-07T11:06:08",
+      "type": "MountainBikeRide",
+      "name": "Kirchberg in Tirol Mountain Biking",
+      "duration_hours": 1.53,
+      "distance_km": 10.94,
+      "tss": null,
+      "intensity_factor": null,
+      "avg_power": null,
+      "normalized_power": null,
+      "avg_hr": null,
+      "max_hr": null,
+      "avg_cadence": 70.05357,
+      "avg_speed": 7.1,
+      "max_speed": 33.7,
+      "avg_pace": null,
+      "avg_temp": 20.663177,
+      "weather": null,
+      "humidity": null,
+      "wind_speed": null,
+      "work_kj": null,
+      "calories": 1096,
+      "carbs_used": null,
+      "carbs_ingested": 0,
+      "variability_index": null,
+      "decoupling": null,
+      "efficiency_factor": null,
+      "hrrc": null,
+      "elevation_m": 956.0,
+      "feel": null,
+      "rpe": null,
+      "zone_distribution": null,
+      "has_intervals": false,
+      "has_dfa": false
+    },
     {
       "id": "i172872340",
       "date": "2026-08-05T20:51:32",
@@ -2368,10 +2410,10 @@
     "bail_no_match": 0
   },
   "weekly_summary": {
-    "total_training_hours": 5.51,
-    "total_training_formatted": "5h30m",
+    "total_training_hours": 7.04,
+    "total_training_formatted": "7h2m",
     "total_tss": 285,
-    "activities_count": 4,
+    "activities_count": 5,
     "avg_hrv": 45.3,
     "avg_resting_hr": 49.7
   },
