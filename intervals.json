@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:01:03.207605",
+  "generated_at": "2026-08-26T14:04:23.326559",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -2946,6 +2946,27 @@
           "zone": 1,
           "training_load": 27.819963,
           "decoupling": -29.536528
+        }
+      ]
+    },
+    {
+      "activity_id": "i180039467",
+      "date": "2026-08-26",
+      "type": "Ride",
+      "name": "Klosterneuburg Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2348,
+          "avg_power": 150,
+          "max_power": 708,
+          "avg_hr": 132,
+          "max_hr": 147,
+          "avg_cadence": 81.386826,
+          "zone": 2,
+          "training_load": 23.557463,
+          "decoupling": 8.076223
         }
       ]
     }
