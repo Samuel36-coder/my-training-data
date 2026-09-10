@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:14:38.160759",
+  "generated_at": "2026-09-10T19:48:22.773929",
   "version": "3.101",
   "script_hash": "1733e822a89e",
   "scan_hours": 72,
@@ -4264,6 +4264,71 @@
           "zone": 2,
           "training_load": 10.140241,
           "decoupling": 13.295193
+        }
+      ]
+    },
+    {
+      "activity_id": "i185356286",
+      "date": "2026-09-10",
+      "type": "Run",
+      "name": "Vienna - Wien Energie Businessrun",
+      "interval_summary": [
+        "4x 4m17s 176bpm",
+        "1x 59s 186bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "257s@176bpm87rpm",
+          "duration_secs": 264,
+          "avg_hr": 163,
+          "max_hr": 179,
+          "avg_cadence": 89.079544,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 178,
+          "max_hr": 178,
+          "avg_cadence": 88.0,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "257s@176bpm87rpm",
+          "duration_secs": 253,
+          "avg_hr": 178,
+          "max_hr": 182,
+          "avg_cadence": 86.905136,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "257s@176bpm87rpm",
+          "duration_secs": 254,
+          "avg_hr": 181,
+          "max_hr": 184,
+          "avg_cadence": 86.47244,
+          "zone": 5
+        },
+        {
+          "type": "WORK",
+          "label": "257s@176bpm87rpm",
+          "duration_secs": 257,
+          "avg_hr": 182,
+          "max_hr": 186,
+          "avg_cadence": 86.217896,
+          "zone": 5
+        },
+        {
+          "type": "WORK",
+          "label": "59s@186bpm88rpm",
+          "duration_secs": 59,
+          "avg_hr": 186,
+          "max_hr": 188,
+          "avg_cadence": 87.644066,
+          "zone": 6
         }
       ]
     }
