@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-10T19:48:23.143657",
+    "last_updated": "2026-09-10T22:22:18.208178",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.101"
@@ -226,7 +226,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 17114,
+      "steps": 18112,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -598,7 +598,7 @@
     "p_max": 1093,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 54.0,
-    "calculation_timestamp": "2026-09-10T19:48:23.142582",
+    "calculation_timestamp": "2026-09-10T22:22:18.207035",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -616,7 +616,7 @@
       "id": "i185356286",
       "date": "2026-09-10T19:15:53",
       "type": "Run",
-      "name": "Vienna - Wien Energie Businessrun",
+      "name": "Business Run",
       "duration_hours": 0.3,
       "distance_km": 4.24,
       "tss": 30,
@@ -656,7 +656,8 @@
         }
       },
       "has_intervals": true,
-      "has_dfa": false
+      "has_dfa": false,
+      "description": "Official time 18:20\nPace: 4:12 min/km"
     },
     {
       "id": "i185022678",
@@ -2567,7 +2568,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 17114,
+      "steps": 18112,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
